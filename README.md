@@ -48,11 +48,12 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. [Pająkowski, Adrian](https://github.com/apajakowski/neo4j "neo4j public repo")
 1. [Pastuszka, Anna](https://github.com/apastuszka/Neo4j "Baza Neo4j")
 
+
 ----
 
 1. Basiak, Paweł
 1. Barański, Kamil
-1. Budka, Kamil 25.10
+1. [Budka, Kamil](https://github.com/kbudka/Neo4J "Baza Neo4j") 25.10 
 1. Ćwikowski, Grzegorz
 1. Całus, Maciej
 1. Denejko, Wojciech 25.10
