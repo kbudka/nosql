@@ -63,7 +63,8 @@ Dane należy wpisać według schematu:
     - [Zadanie_1](https://github.com/apastuszka/EDA-Mongo)
 1. Michał Turzyński
     - [Zadanie 1 a-d](https://bitbucket.org/michal-at-bb/mongo_zadania/overview)
-
+1. Kamil Budka
+2. - [Zadanie 1d] (https://github.com/kbudka/GeoJSON)
 ----
 
 1. Basiak, Paweł
