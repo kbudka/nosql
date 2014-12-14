@@ -37,4 +37,5 @@ Legenda: [1M, 2-] oznacza, że zadanie 1. ma usterkę M i brak zadania 2:
     - [Zadanie 1 a-c](https://github.com/aszykula/Neo4j/tree/master/zadanie1)
     - [Zadanie 2](https://github.com/aszykula/Neo4j/tree/master/zadanie2)
 1. [1G, 2-] [Budka, Kamil](https://github.com/kbudka/Neo4J) / 25.10
-    - [Zadanie 1, 2](https://github.com/kbudka)
+    - [Zadanie 1](https://github.com/kbudka/GeoJSON)
+    - [Zadanie 2](https://github.com/kbudka/AggregationPipelines)
